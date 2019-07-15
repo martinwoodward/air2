@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/martinwoodward/Air2/_apis/build/status/martinwoodward.air2?branchName=master)](https://dev.azure.com/martinwoodward/Air2/_build/latest?definitionId=40&branchName=master)
 
 # Microsoft.Github CI Demo
 
